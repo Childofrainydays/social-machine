@@ -1,4 +1,4 @@
-const {Schema, model} = require('mongoose'); // import mongoose for the schema and model
+const { Schema, model } = require('mongoose'); // import mongoose for the schema and model
 const reactionSchema = require('./reaction'); // import the reaction schema
 
 // Define the schema for the User model
